@@ -1,3 +1,6 @@
+## Ultima Zero
+Looks like a game that could *possibly* be converted to Assembler. Pinning it.
+
 # Akalabeth
 Akalabeth: World of Doom
 
